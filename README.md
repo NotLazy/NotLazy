@@ -23,4 +23,4 @@
 </p>
 <!-- **NotLazy/NotLazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h3>I am ✨ *still* ✨ waiting for the day I have repositories to pin in Popular Repositories</h3>
+<h3>I am ✨ <i>still</i> ✨ waiting for the day I have repositories to pin in Popular Repositories</h3>

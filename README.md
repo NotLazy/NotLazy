@@ -30,5 +30,3 @@
   <span style=color:#333;>* This list may be incomplete</span>
 </p> -->
 <!-- **NotLazy/NotLazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<h3>I am ✨ <i>still</i> ✨ waiting for the day I have repositories to pin in Popular Repositories</h3>
